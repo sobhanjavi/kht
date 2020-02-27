@@ -1,1 +1,1 @@
-# Visit http://Khaterast.ir
+# Khaterast v.1 beta
