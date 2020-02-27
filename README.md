@@ -1,1 +1,1 @@
-# Khaterast v.1 beta
+# Khaterast WP Theme v.1 beta
